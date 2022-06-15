@@ -1,0 +1,10 @@
+.EmployeeHeader{
+    align-items: center;
+  
+    right: 55rem;
+}
+.info h2{
+display: inline-block;
+position: relative;
+
+}
